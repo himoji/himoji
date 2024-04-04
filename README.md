@@ -1,16 +1,24 @@
-### Hi there 👋
+# Portfolio README 👨‍💻
 
-<!--
-**himoji/himoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [Web Bank App](https://github.com/himoji/bankgrpcweb) 💼
+A web-based banking application developed using Python, gRPC, Flask, and SQL. Simple app to simulate banking apps.
 
-Here are some ideas to get you started:
+## [Modded Client for Minecraft](https://github.com/himoji/client) 🎮
+Crafting a customized client for Minecraft using Java to enhance the gaming experience. Implementing new features, optimizations, mods and improvements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [AI Project](https://github.com/himoji/antiM) 🤖
+Simple artificial intelligence with Python and TensorFlow. Which is made to locate infected hbcs.
+
+## [Sorting showcase](https://github.com/himoji/sortReact)📚
+Simple sorting showcase built with React.
+
+## Current Projects
+
+### Telegram Bot for Physics Learners 
+Creating a Telegram bot using Python and aiogram to assist physics learners. Providing easy access for study resources, and helpful tips to enhance learning.
+
+### [Simple Todo Terminal App](https://github.com/himoji/todoNotifier_terminal) 📝
+Building a minimalist todo list application for the terminal using Rust. Prioritizing simplicity, efficiency, and usability.
+
+### Frontend Development Contributions to [Kashgari.kz](https://www.kashgari.kz/kz) 🌐
+Contributing to the frontend development of Kashgari.kz, an educational platform. Collaborating with a team to design and implement user-friendly interfaces and interactive features.
