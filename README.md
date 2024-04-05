@@ -1,4 +1,4 @@
-# Me 👨‍💻
+# My 👨‍💻 projects
 
 ## [Web Bank App](https://github.com/himoji/bankgrpcweb) 💼
 A web-based banking application developed using Python, gRPC, Flask, and SQL. Simple app to simulate banking apps.
