@@ -20,5 +20,5 @@ Creating a Telegram bot using Python and aiogram to assist physics learners. Pro
 ### [Simple Todo Terminal App](https://github.com/himoji/todoNotifier_terminal) 📝
 Building a minimalist todo list application for the terminal using Rust. Prioritizing simplicity, efficiency, and usability.
 
-### Frontend Development Contributions to [Kashgari.kz](https://www.kashgari.kz/kz) 🌐
-Contributing to the frontend development of Kashgari.kz, an educational platform. Collaborating with a team to design and implement user-friendly interfaces and interactive features.
+### Frontend Development Contributions to the Kashgari dictionary 🌐
+Contributing to the frontend development of the Kashgari dict, an educational platform. Collaborating with a team to design and implement user-friendly interfaces and interactive features.
