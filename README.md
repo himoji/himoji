@@ -14,9 +14,6 @@ Simple sorting showcase built with React.
 
 ## Current Projects
 
-### Telegram Bot for Physics Learners 
-Creating a Telegram bot using Python and aiogram to assist physics learners. Providing easy access for study resources, and helpful tips to enhance learning.
-
 ### [Simple Todo Terminal App](https://github.com/himoji/todoNotifier_terminal) 📝
 Building a minimalist todo list application for the terminal using Rust. Prioritizing simplicity, efficiency, and usability.
 
