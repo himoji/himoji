@@ -12,6 +12,9 @@ Simple artificial intelligence with Python and TensorFlow. Which is made to loca
 ## [Sorting showcase](https://github.com/himoji/sortReact)📚
 Simple sorting showcase built with React.
 
+## [Weather app](https://github.com/himoji/weatherappswift)📚
+Simple weather app for IOS, build with Swift. Uses OpenWeather API for forecast.
+
 ## Current Projects
 
 ### [Simple Todo Terminal App](https://github.com/himoji/todoNotifier_terminal) 📝
