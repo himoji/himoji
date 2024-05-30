@@ -22,3 +22,8 @@ Building a minimalist todo list application for the terminal using Rust. Priorit
 
 ### Frontend Development Contributions to the Kashgari dictionary 🌐
 Contributing to the frontend development of the Kashgari dict, an educational platform. Collaborating with a team to design and implement user-friendly interfaces and interactive features.
+
+<p align="center">
+<img width="430em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=himoji&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&count_private=true"/>
+<img width="370em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=himoji&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&count_private=true"/>
+</p>
