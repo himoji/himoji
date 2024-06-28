@@ -15,6 +15,10 @@ Simple sorting showcase built with React.
 ## [Weather app](https://github.com/himoji/weatherappswift)📚
 Simple weather app for IOS, build with Swift. Uses OpenWeather API for forecast.
 
+## [AI Teacher](https://github.com/riz3e/ISSAI-teacher)🤖
+AI Teacher project done @[ISSAI](https://github.com/IS2AI).
+
+
 ## Current Projects
 
 ### [Simple Todo Terminal App](https://github.com/himoji/todoNotifier_terminal) 📝
