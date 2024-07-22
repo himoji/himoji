@@ -21,9 +21,6 @@ AI Teacher project done @[ISSAI](https://github.com/IS2AI).
 
 ## Current Projects
 
-### [Simple Todo Terminal App](https://github.com/himoji/todoNotifier_terminal) 📝
-Building a minimalist todo list application for the terminal using Rust. Prioritizing simplicity, efficiency, and usability.
-
 ### Frontend Development Contributions to the Kashgari dictionary 🌐
 Contributing to the frontend development of the Kashgari dict, an educational platform. Collaborating with a team to design and implement user-friendly interfaces and interactive features.
 
