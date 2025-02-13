@@ -23,6 +23,7 @@ AI Teacher project done @[ISSAI](https://github.com/IS2AI).
 
 ### Frontend Development Contributions to the Kashgari dictionary 🌐
 Contributing to the frontend development of the Kashgari dict, an educational platform. Collaborating with a team to design and implement user-friendly interfaces and interactive features.
+Kashgari.kz and Oqu Dana Tiin
 
 <p align="center">
 <img width="430em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=himoji&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&count_private=true"/>
